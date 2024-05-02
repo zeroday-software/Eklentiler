@@ -1,0 +1,2 @@
+# Eklentiler
+Wordpress Eklentileri
